@@ -1,4 +1,9 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
+
+### NAME: Muhammad Afshan A
+### REG NO:212223100035
+### DEPT: CSE(CYBER SECURITY)
+
 # Aim:
 # To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
@@ -95,14 +100,13 @@ contract AIPoweredNegotiation {
 
 # Expected Output:
 Buyers submit offers, and the contract auto-negotiates the price.
-
+![alt text](image.png)
 
 If the buyer’s offer is fair, the deal is executed.
-
+![alt text](image-1.png)
 
 If the offer is too low, the contract suggests a counteroffer.
-
-
+![alt text](image-2.png)
 
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
@@ -118,4 +122,4 @@ Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
 
-
+Thus, the given experiment has been executed successfully.
